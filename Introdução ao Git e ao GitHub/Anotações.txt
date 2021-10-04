@@ -1,1 +1,7 @@
-Meu primeiro repositório efetivo
+Links de repositório efetivo:
+
+links de download:
+https://gitforwindows.org/
+
+links de linguágem:
+https://www.markdownguide.org/basic-syntax/
